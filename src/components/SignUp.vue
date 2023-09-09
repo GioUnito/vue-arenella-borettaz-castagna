@@ -1,7 +1,7 @@
 <template>
   <div class="register">
     <img class="logo" src="../assets/logoTennis.png" />
-    <h1>TENNIS HUBb</h1>
+    <h1>TENNIS HUB</h1>
     <h2>Sign Up</h2>
     <input type="text" placeholder="enter name" />
     <input type="text" placeholder="enter email" />
